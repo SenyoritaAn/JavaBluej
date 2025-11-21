@@ -32,5 +32,6 @@ public class RickshawFare {
         }
 
         System.out.println("Final Fare: Rs. " + (int)fare);
+        System.out.println();
     }
 }
