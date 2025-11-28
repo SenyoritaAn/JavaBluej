@@ -69,6 +69,7 @@ public class ticket
         }
 
         System.out.println("Final Ticket Price: Rs. " + price);
+        
     }
 }
 
