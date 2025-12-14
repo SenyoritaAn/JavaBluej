@@ -5,8 +5,6 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class scena
-{
     public class MiniBookCorner
 {
     public static void main(String[] args)
@@ -38,6 +36,4 @@ public class scena
             System.out.println(); 
         }
     }
-}
-
 }
